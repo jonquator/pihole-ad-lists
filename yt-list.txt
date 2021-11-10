@@ -31,3 +31,7 @@ r4---sn-hgn7rn7k.googlevideo.com
 r5---sn-hgn7rnee.googlevideo.com
 r4---sn-h5q7kne6.googlevideo.com
 r1---sn-h5q7kned.googlevideo.com
+r3---sn-h5q7dned.googlevideo.com
+r5---sn-h5nhv8pa-cjoe.googlevideo.com
+r3---sn-h5nhv8pa-cjoe.googlevideo.com
+r3---sn-ixh7rn76.googlevideo.com
