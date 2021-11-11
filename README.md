@@ -1,4 +1,4 @@
-# Pi-Hole YouTube Ads blocking list by Jonquator (DNS Blocking)
+# Pi-Hole Ad blocking lists by Jonquator (DNS Blocking)
 Handpicked custom list of ads provider DNS lists from YouTube for Pi-Hole. I will try to keep it up-to-date.
 
 |Listname|URL|
